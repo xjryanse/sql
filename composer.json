@@ -1,0 +1,20 @@
+{
+    "name": "xjryanse/sql",
+    "description": "sql逻辑库",
+    "type": "library",
+    "authors": [
+        {
+            "name": "xjryanse",
+            "email": "xjryanse@sina.com"
+        }
+    ],
+    "require": {
+
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+          "xjryanse\\sql\\": "src/"
+        }
+    }
+}
